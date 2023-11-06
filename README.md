@@ -9,7 +9,7 @@ Flex Flow is a fitness tracking app that allows users to track their workout ses
 - [Tests](#tests)
 - [Authors](#authors)
 ## Installation
-[Deployed Application](insert deployment link)
+https://mighty-bastion-82183-178fd50e41a1.herokuapp.com/
 ## Usage
 The user is prompted to sign up for a Flex Flow account, providing basic information such as a username and password. Passwords are securely encrypted using bcrypt hashing and stored in a MySQL database, along with the initial username. Users can later add additional details to their profiles, including height, weight, and age. The app calculates and stores the user's BMI based on the input data.
 In the "Exercises" section, users can select cardio and weight training exercises and save them to their profiles. Users can specify parameters such as the number of reps, sets, distance, and duration for each exercise. The exercise data is stored in the database through a set of modularized JavaScript models, using GET, POST, and UPDATE routes that target specific elements and buttons on the website.
@@ -39,4 +39,3 @@ During the development of Flex Flow, our team gained valuable insights and ident
 - **Pseudocoding:** Pseudocoding was a valuable tool for outlining project structure, but we realized we could have utilized it even more effectively. We plan to make pseudocoding a central part of our workflow in future projects to enhance project efficiency.
 - **Division of Tasks:** Learning to divide and conquer effectively was a key skill we developed. In future projects, we plan to refine our task allocation process to boost project progress.
 - **Continuous Learning:** This project marked our second official collaboration. Embracing the lessons learned will pave the way for more successful projects and learning opportunities in the future.
-C
